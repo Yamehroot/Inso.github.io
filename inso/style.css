@@ -1,0 +1,79 @@
+body{
+  
+    background-image: url(muncher/background.gif);
+    width: 100%;
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  
+  .about{
+    width: 100%;
+    padding: 78px 0px;
+  }
+  .about img{
+    height: auto;
+    width: 300px;
+  }
+  .about-text{
+    width: 550px;
+  }
+  .main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+  }
+  .about-text h1{
+    color: white;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+  }
+  .about-text h5{
+    color: white;
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+  }
+  .about-text p{
+    color:white;
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-size: 20px;
+    margin-bottom: 45px;
+  }
+  .about-text p{
+  color:white;
+  letter-spacing: 1px;
+  line-height: 20px;
+  margin-bottom:45px;
+  }
+  .duwa p{
+    font-size: 74px;
+    color:white;
+    
+  }
+  
+  .duwa {
+    color:white;
+  }
+  details {
+    font-size: 50px;
+  }
+  link {
+    width: 200%;
+    height: 200px;
+  }
+  
+  .shade{
+    
+    width: 200px;
+    height: 50px;
+    
+  }
